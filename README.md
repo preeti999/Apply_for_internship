@@ -13,3 +13,8 @@ i wrote an Automation script using Puppeteer and Node.js which will help you to 
 5. Update the feed wall with success status
 
 6. Submit your application
+
+
+
+
+![bandicam-2020-06-19-10-40-43-040](https://user-images.githubusercontent.com/47216278/85120001-765b4780-b1d7-11ea-8882-1e819c05782f.gif)
