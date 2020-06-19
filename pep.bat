@@ -1,1 +1,1 @@
-node internshipInternshala.js "credential.json"
+node applyInternship.js "credential.json"
