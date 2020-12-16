@@ -1,4 +1,4 @@
-# Internshala project
+# Internshala-Automation
 It is an Automation script written using Puppeteer and Node.js which will help you to apply for the internship on Internshala.
 
 #### STEPS INCLUDE
